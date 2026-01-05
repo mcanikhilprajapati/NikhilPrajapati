@@ -82,7 +82,7 @@ I specialize in **React Native CLI**, native integrations, and production-ready 
 ## 📞 Contact Me
 
 - 📱 **Mobile:** +91 83202 00641
-- 💼 **LinkedIn:** https://www.linkedin.com/mcanikhilprajapati
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mcanikhilprajapati
 - 📧 **Email:** mca.nikhilprajapati@gmail.com
 
 ---
