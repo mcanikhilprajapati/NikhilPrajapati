@@ -5,6 +5,7 @@
 I am a **React Native developer with 12+ years of experience** building scalable, high-performance mobile applications for Android & iOS.  
 I specialize in **React Native CLI**, native integrations, and production-ready apps.
 
+Profile : https://www.weekday.works/people/nikhil-prajapati-mcanikhilprajapati
 ---
 
 ## 🧑‍💻 About Me
