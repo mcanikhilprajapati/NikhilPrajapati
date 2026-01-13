@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nikhil Prajapati
 
-### 🚀 Androiood /React Native Expert | Mobile App Architect
+### 🚀 Android /React Native Expert | Mobile App Architect
 
-I am a **Androiod/React Native developer with 12+ years of experience** building scalable, high-performance mobile applications for Android & iOS.  
+I am a **Android/React Native developer with 12+ years of experience** building scalable, high-performance mobile applications for Android & iOS.  
 I specialize in **React Native CLI**, native integrations, and production-ready apps.
 
 Profile : https://www.weekday.works/people/nikhil-prajapati-mcanikhilprajapati
